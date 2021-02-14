@@ -5,10 +5,10 @@ During all these years, I have acquired a solid knowledge of object-oriented, pr
 
 
 ## 📲 Skills:
-[![iOS](https://img.shields.io/badge/iOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=white)]()
-[![tvOS](https://img.shields.io/badge/tvOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=white)]()
-[![watchOS](https://img.shields.io/badge/watchOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=white)]()
-[![macOS](https://img.shields.io/badge/macOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=white)]()
+[![iOS](https://img.shields.io/badge/iOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e7ef)]()
+[![tvOS](https://img.shields.io/badge/tvOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e7ef)]()
+[![watchOS](https://img.shields.io/badge/watchOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e7ef)]()
+[![macOS](https://img.shields.io/badge/macOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e7ef)]()
 [![Swift](https://img.shields.io/badge/Swift-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()
 [![Xcode](https://img.shields.io/badge/Xcode-101010?style=for-the-badge&logo=xcode&logoColor=F7F7F7&labelColor=007AFF)]()
 <br>
