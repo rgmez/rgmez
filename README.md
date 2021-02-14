@@ -9,13 +9,14 @@ During all these years, I have acquired a solid knowledge of object-oriented, pr
 [![tvOS](https://img.shields.io/badge/tvOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e7ef)]()
 [![watchOS](https://img.shields.io/badge/watchOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e7ef)]()
 [![macOS](https://img.shields.io/badge/macOS-101010?style=for-the-badge&logo=apple&logoColor=black&labelColor=e5e7ef)]()
+<br>
 [![Swift](https://img.shields.io/badge/Swift-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()
 [![Xcode](https://img.shields.io/badge/Xcode-101010?style=for-the-badge&logo=xcode&logoColor=F7F7F7&labelColor=007AFF)]()
 <br>
 [![Carthage](https://img.shields.io/badge/Carthage-101010?style=for-the-badge&logo=loop&logoColor=F7F7F7&labelColor=007AFF)]()
 [![CocoaPods](https://img.shields.io/badge/CocoaPods-101010?style=for-the-badge&logo=cocoapods&logoColor=F7F7F7&labelColor=ff0011)]()
 [![Realm](https://img.shields.io/badge/Realm-101010?style=for-the-badge&logo=realm&logoColor=F7F7F7&labelColor=192036)]()
-<br>
+<br><br>
 [![Functional](https://img.shields.io/badge/Functional_Programming-🎯_Focused...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()<br>
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-📖_💡_🚀_Learning...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()<br>
 [![Combine](https://img.shields.io/badge/Combine-📖_💡_🚀_Learning...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()
