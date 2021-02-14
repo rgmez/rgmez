@@ -5,7 +5,10 @@ During all these years, I have acquired a solid knowledge of object-oriented, pr
 
 
 ## 📲 Skills:
-[![Apple](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/tvOS-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/watchOS-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-007AFF?style=for-the-badge&logo=xcode&logoColor=F7F7F7)]()
 <br>
