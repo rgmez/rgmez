@@ -22,9 +22,9 @@ Challenges excite me, solving complex problems, refining code to make it cleaner
 [![SPM](https://img.shields.io/badge/Spm-101010?style=for-the-badge&logo=loop&logoColor=F7F7F7&labelColor=007AFF)]()
 <br><br>
 [![Functional](https://img.shields.io/badge/Functional_Programming-🎯_Focused...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()<br>
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-📖 💡_🚀_Mastering...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()<br>
-[![Combine](https://img.shields.io/badge/Combine-📖 💡_🚀_Mastering...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()<br>
-[![Async/Await](https://img.shields.io/badge/Async/Await-📖 💡_🚀_Mastering...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-📖_🚀_Mastering...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()<br>
+[![Combine](https://img.shields.io/badge/Combine-📖_🚀_Mastering...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()<br>
+[![Async/Await](https://img.shields.io/badge/Async/Await-📖_🚀_Mastering...-101010?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)]()
 
 ## 📫 How to reach me:
 [![Twitter](https://img.shields.io/badge/@rgomezmu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/rgomezmu)
