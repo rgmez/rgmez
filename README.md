@@ -32,7 +32,7 @@ These projects turn recurring engineering problems into resources other develope
 
 ## ✍️ Swift Happens
 
-[![Swift Happens by Roberto Gómez — Apple engineering in the AI era: product thinking, system architecture, and human review.](assets/swift-happens-banner.png)](https://www.linkedin.com/newsletters/swift-happens-7459996990664511488/)
+[![Swift Happens by Roberto Gómez — Apple engineering in the AI era: product thinking, system architecture, and human review.](assets/swift-happens-banner-v2.png)](https://www.linkedin.com/newsletters/swift-happens-7459996990664511488/)
 
 I write about Apple engineering, product judgment, and AI-assisted development, drawing on the trade-offs of real software.
 
